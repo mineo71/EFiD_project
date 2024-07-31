@@ -10,6 +10,7 @@ Requirements:
 
 Usage:
 Add(download) the script, after isntalling it can be run with the desired keyboard shortcut.
+It is importany to allow running scripts in your "Shortcuts" app settings -> Advanced.
  
 Also it will appear Share Sheet, Service Menus, Finder.
 
