@@ -9,8 +9,7 @@ Requirements:
 2) Shortcuts v. 7.0 +
 
 Usage:
-Add(download) the script, after isntalling it can be run with:
- ```⌃⌥C (control + option + C )```
+Add(download) the script, after isntalling it can be run with the desired keyboard shortcut.
  
 Also it will appear Share Sheet, Service Menus, Finder.
 
